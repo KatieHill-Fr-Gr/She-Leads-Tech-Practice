@@ -60,13 +60,7 @@ Examples: `fib(1) → 1`, `fib(4) → 3`, `fib(10) → 55`.
 
 [LeetCode problem](https://leetcode.com/problems/power-of-two/) · [Starter](./isPowerOfTwo.ts)
 
-Determine whether integer n equals 2 raised to a non-negative integer exponent. Return a boolean. Inputs range from -(2^31) through 2^31 - 1.
-
-Signature: `isPowerOfTwo(n: number): boolean`
-
-Examples: `isPowerOfTwo(1) → true`, `isPowerOfTwo(16) → true`, `isPowerOfTwo(3) → false`, `isPowerOfTwo(0) → false`.
-
-Solve recursively first, handling zero and negative inputs. Then try the original follow-up without loops or recursion.
+%
 
 ### 7. Power of Three — LeetCode #326 (Easy)
 
