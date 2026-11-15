@@ -1,1 +1,5 @@
 node_modules/
+
+# Local instructor solutions for Stack and Queue
+/Data structure series/Stacks and Queues/Stack/Solutions/
+/Data structure series/Stacks and Queues/Queue/Solutions/
