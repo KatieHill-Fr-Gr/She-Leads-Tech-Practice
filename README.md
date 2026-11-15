@@ -27,16 +27,16 @@ cd She-Leads-Tech-Practice
 
 If you forked the repository, use the clone URL from your fork's **Code** menu in the first command. The root folder contains this README and the `Data structure series` folder.
 
-1. Open a starter such as [Valid Parentheses](Data%20structure%20series/Stacks%20and%20Queues/Stack/level1/20-isValid.ts).
+1. Open the first Stack starter, [Remove All Adjacent Duplicates In String](Data%20structure%20series/Stacks%20and%20Queues/Stack/level1/1-removeDuplicates.ts).
 2. Replace the `throw new Error("TODO: ...")` line with your implementation.
 3. Remove the `/*` and `*/` around the example at the bottom of the file, then save.
 4. Run this command from the repository root. Keep the quotes around the file path because it contains spaces.
 
 ```sh
-node "Data structure series/Stacks and Queues/Stack/level1/20-isValid.ts"
+node "Data structure series/Stacks and Queues/Stack/level1/1-removeDuplicates.ts"
 ```
 
-The example should print `true` and `false` on separate lines. For another exercise, replace the path with that file's path. Add your own `console.log(...)` calls to try more inputs.
+The example should print `ca` for the sample input `"abbaca"`. For another exercise, replace the path with that file's path. Add your own `console.log(...)` calls to try more inputs.
 
 - **No output?** Make sure the example is uncommented and the file is saved.
 - **Cannot find the file?** Run the command from the repository root and check the spelling, case and quotes in the path.
